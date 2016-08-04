@@ -1,0 +1,33 @@
+_repo: Amy-Foster_495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: In the nineteenth century, mass immigration changed the face of the world.
+  Although we like to think of this cross-cultural pollination as being a positive
+  trend in human history, the truth of the matter is not always clear. In "Amy Foster,"
+  prose master Joseph Conrad takes on the dark side of immigration and the intermingling
+  of vastly different cultures and worldviews.
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Amy Foster
+url: http://www.gutenberg.org/ebooks/495
