@@ -1,5 +1,8 @@
 _repo: Amy-Foster_495
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -17,6 +20,8 @@ description: In the nineteenth century, mass immigration changed the face of the
   trend in human history, the truth of the matter is not always clear. In "Amy Foster,"
   prose master Joseph Conrad takes on the dark side of immigration and the intermingling
   of vastly different cultures and worldviews.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/495#Amy-Foster
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
